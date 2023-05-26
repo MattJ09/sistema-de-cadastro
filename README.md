@@ -5,5 +5,5 @@
 esse é um dos exemplos que eu uso para estudar git e github na Alura
 
 ```
-npm install react
+node app.js
 ```
